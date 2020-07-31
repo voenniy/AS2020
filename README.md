@@ -5,7 +5,7 @@
 Кучумов Олег Юрьевич
 
 web Решение и руководство пользователя находится в папке solution
-Desktop решение по адресу https://yadi.sk/d/gonlnV8tjmgAo
+Desktop решение по адресу https://yadi.sk/d/iJa32YUibeNbnQ
 
 Для запуска необходима база данных postgres c парамертрами
 HOST 127.0.0.1
