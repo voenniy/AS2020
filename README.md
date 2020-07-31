@@ -5,15 +5,17 @@
 Кучумов Олег Юрьевич
 
 web Решение и руководство пользователя находится в папке solution
+
 Desktop решение по адресу https://yadi.sk/d/iJa32YUibeNbnQ
 
 Для запуска необходима база данных postgres c параметрами
+```
 HOST 127.0.0.1
 PORT 5432
 user postgres
 password gfhjkbr13
 database as2020_app
-
+```
 
 
 Web решение сделанно на языке php
